@@ -1,7 +1,6 @@
-/* Lame.java
-   A port of LAME for Android
-
-   Copyright (c) 2010 Ethan Chen
+/* comp-interface.cpp
+  
+   Copyright (c) 2013 Sylvain Afchain
 
    This library is free software; you can redistribute it and/or
    modify it under the terms of the GNU Lesser General Public
